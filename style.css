@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+    color:black;
+    background-image:linear-gradient(violet,indigo,blue,green,yellow,orange,red)
+    }
+    #family{
+    font-size:50px;
+    word-spacing:10px;
+    text-align:center;
+    width:100%;
+    }
+    #Myimage{
+    border-style:solid black 10px;
+    border-radius: 10px;
+     width:20%;
+     height: 55%;
+    }
+    #whatever{
+font-size: 40px;
+    }
